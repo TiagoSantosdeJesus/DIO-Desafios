@@ -1,5 +1,5 @@
 # DIO-Desafios
-Desafios propostos pelo bootcamp Orange Tech + ofertado pelo Inter em parceria com a plataforma DIO.
+Desafios de códigos e projetos práticos utilizando JavaScript e NodeJs.
 
 ## Links úteis:
 [Sintaxe Básica Markdown](https://www.markdownguide.org/basic-syntax/)
